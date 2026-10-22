@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/2e51dd05-e406-4519-a2ff-180f4d6ecbe3
+
 # Case study: a design system for a live multilingual civic-tech site
 
 - **Project:** Civic Compass (מצפן אזרחי): https://www.amechad.info
