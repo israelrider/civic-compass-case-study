@@ -1,14 +1,14 @@
 # Case study: a design system for a live multilingual civic-tech site
 
-**Civic Compass (מצפן אזרחי)**: https://www.amechad.info
-**Role:** volunteer front-end developer, Sep 2026 – present
-**Stack:** SvelteKit 2 (Svelte 5 runes) · Tailwind CSS 4 · svelte-i18n · Playwright
-**Scope:** front-end only. The Strapi/PostgreSQL backend belongs to another team member.
+- **Project:** Civic Compass (מצפן אזרחי): https://www.amechad.info
+- **Role:** volunteer front-end developer, Sep 2026 – present
+- **Stack:** SvelteKit 2 (Svelte 5 runes) · Tailwind CSS 4 · svelte-i18n · Playwright
+- **Scope:** front-end only. The Strapi/PostgreSQL backend belongs to another team member.
 
 ![Home page, English (LTR)](civic-compass-home-en.jpg)
 ![Home page, Arabic (RTL)](civic-compass-home-ar-rtl.jpg)
 
-**Demo video (2 min, no sound):** [demo.mp4](demo.mp4): live site, light → dark theme, all 5 languages, RTL ↔ LTR.
+**Demo video (2 min, no sound):** live site, light → dark theme, all 5 languages, RTL ↔ LTR.
 
 ## The problem
 
