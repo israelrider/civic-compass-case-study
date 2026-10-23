@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/2e51dd05-e406-4519-a2ff-180f4d6ecbe3
-
 # Case study: a design system for a live multilingual civic-tech site
 
 - **Project:** Civic Compass (מצפן אזרחי): https://www.amechad.info
@@ -13,6 +9,8 @@ https://github.com/user-attachments/assets/2e51dd05-e406-4519-a2ff-180f4d6ecbe3
 ![Home page, Arabic (RTL)](civic-compass-home-ar-rtl.jpg)
 
 **Demo video (2 min, no sound):** live site, light → dark theme, all 5 languages, RTL ↔ LTR.
+
+https://github.com/user-attachments/assets/2e51dd05-e406-4519-a2ff-180f4d6ecbe3
 
 ## The problem
 
